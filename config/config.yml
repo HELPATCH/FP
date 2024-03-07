@@ -1,0 +1,7 @@
+bot:
+  token: ""
+db:
+  type: sqlite
+  path: data.db
+storage:
+  type: memory
